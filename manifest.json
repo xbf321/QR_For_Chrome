@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+
+  	"name": "生成二维码",
+  	"description": "QRCode",
+  	"version": "1.0",
+  	"permissions": ["tabs"],
+	"browser_action": {
+		"default_icon": "images/icon.png",
+		"default_popup": "popup.html"
+	}/*,
+	"page_action": {       
+		"default_icon": "images/icon.png",
+		"default_title":"sdfsfd"              
+	}*/
+}
